@@ -16,9 +16,10 @@ Pandas
    
    ●Pandas套件提供了許多資料清理的方法(Method)，故透過使用這個套件去做資料的前處理。
    
+   
+```
    [01.Pandas基礎語法統整](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetMulityPages.ipynb) 
    
-```   
 ***   
 #### Model :
 
