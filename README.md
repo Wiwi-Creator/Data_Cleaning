@@ -4,17 +4,18 @@
 #### Definition :
 ```markdown
 
-在分析資料的過程中，從各個來源的DB的大量資料常常不完整或是髒亂，EX:空值、NULL或重複資料等，這時候就需要進行的清理與處理，讓資料集更符合所需，進而能夠精確的分析。
+在得到一個資料集，由於是從各個來源的DB的，常常不完整或是髒亂，EX:空值、NULL或重複資料等，這時候就需要進行的清理與處理，讓資料集更符合所需，進而能夠精確的分析。
 
-Pandas套件提供了許多資料清理的方法(Method)，來分享這些方法(Method)的應用方式。
 
 ```
 ***
-#### Tool  :
+#### 套件  :
 ```markdown
-Jupyter NoteBook
+Pandas
    
-   ●介於IDE和Editor間可以寫code，亦可以做資料視覺化的工具 
+   ●Pandas套件提供了許多資料清理的方法(Method)，故透過使用這個套件去做資料的前處理。
+   
+   [01.Pandas基礎語法統整](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetMulityPages.ipynb) 
    
 ```   
 ***   
@@ -34,12 +35,5 @@ requests
 ```
 ***   
 #### Basic Web Crawer : 
-   
- [01.基礎爬蟲HTML(PTT)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetMulityPages.ipynb) 
  
- [02.基礎爬蟲Picture(Dcard)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetPic.ipynb)
-
- [03.爬蟲練習(Etoday新聞雲)](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/HTMLpractice.ipynb)
  
-
-
