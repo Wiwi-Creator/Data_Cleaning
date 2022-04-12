@@ -35,6 +35,3 @@ requests
    
 ```
 ***   
-#### Basic Web Crawer : 
- 
- 
