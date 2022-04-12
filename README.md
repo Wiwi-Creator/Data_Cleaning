@@ -18,7 +18,7 @@ Pandas
    
    
 ```
-   [01.Pandas基礎語法統整](https://github.com/Wiwi-Creator/Web-Crawler/blob/main/GetMulityPages.ipynb) 
+   [01.Pandas基礎語法統整](https://github.com/Wiwi-Creator/Data_Cleaning/blob/main/Pandas_Basic.ipynb) 
    
 ***   
 #### Model :
