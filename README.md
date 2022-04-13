@@ -19,5 +19,5 @@ Pandas
 ```
    [01.Pandas基礎語法統整](https://github.com/Wiwi-Creator/Data_Cleaning/blob/main/Pandas_Basic.ipynb) 
    
-   [02.Pandas讀取CSV檔案]() 
+   [02.Pandas讀取CSV檔案](https://github.com/Wiwi-Creator/Data_Cleaning/blob/main/Read_Csv.ipynb) 
    
