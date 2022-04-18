@@ -1,4 +1,4 @@
-# Data Visualization 資料視覺化
+# Data Cleaning 資料清理
 
 ***
 #### Definition :
@@ -17,7 +17,7 @@ Pandas
 ```
 ``pip3 install pandas``
 
-   [01.Chartify基礎語法統整]()
+   [01.Chartify基礎語法統整](https://github.com/Wiwi-Creator/Data_Cleaning/blob/main/Pandas_Basic.ipynb)
    
    [02.Matplotlib基礎統整]()
    
