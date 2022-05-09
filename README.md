@@ -28,3 +28,5 @@ Pandas
    
    [02.Pnadas基礎檔案操作](https://github.com/Wiwi-Creator/Data_Cleaning/blob/main/Read_Csv.ipynb)
    
+   [03.Lambda/Apply語法練習]()
+   
